@@ -19,7 +19,7 @@ public class MyConnexion {
 	// méthode qui permet de créer une connexion
 	public static void openConnection() {
 		/* Parametres de connexion */
-		String url = "jdbc:mysql://127.0.0.1/dragons";
+		String url = "jdbc:mysql://127.0.0.1/dragon2";
 		// nesti = nom de ma bdd
 		String utilisateur = "root";
 		String motDePasse = "";
